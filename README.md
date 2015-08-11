@@ -4,3 +4,8 @@
 ========================
 
 This is new branch thisisbranch
+
+=======================
+
+For another branch...
+"Snapshots" of files are stored on git.
